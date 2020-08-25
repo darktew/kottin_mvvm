@@ -1,4 +1,4 @@
-# kottin_mvvm
+# kotin_mvvm
 Kotlin
 
 This project use MVVM 
